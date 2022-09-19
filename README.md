@@ -70,3 +70,5 @@ More information about the usage of this directory in [the documentation](https:
 "# laravel-nuxt-todoapp" 
 "# todoApp" 
 "# ui-todoapp" 
+"# todoapp-laravel-nuxt" 
+"# todoapp-laravel-nuxt" 
